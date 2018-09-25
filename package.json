@@ -1,0 +1,11 @@
+{
+  "name": "sticky-scroll",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/lastIndexOf/sticky-scroll.git",
+  "author": "zhengfankai<kgaikj2cu@icloud.com>",
+  "scripts": {
+    "start": "parcel demo/index.html -p 8888"
+  },
+  "license": "MIT"
+}
